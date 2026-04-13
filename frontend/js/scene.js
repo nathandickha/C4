@@ -35,7 +35,7 @@ const SPA_THROAT_DEBUG_BLUE_TOP_PAD = 0.01;
 const SPA_THROAT_DEBUG_BLUE_Z_LIFT = 0.10;
 
 // Independent throat shortening along the wall (positive values shrink).
-const SPA_THROAT_YELLOW_LENGTH_SHRINK = 0.15;
+const SPA_THROAT_YELLOW_LENGTH_SHRINK = 0.05;
 const SPA_THROAT_BLUE_LENGTH_SHRINK = 0.00;
 const SPA_THROAT_BLUE_LENGTH_EXTRA = 0.035; // positive value extends blue throat further along wall
 
